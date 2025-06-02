@@ -10,10 +10,10 @@ the OpenSea platform. Using a multi-dimensional analytical framework, we
 investigated:
 
 - Temporal trends and seasonal cycles in NFT sales, -Statistical
-relationships between NFT attributes and their prices. 
+relationships between NFT attributes and their prices
 - Clustering of high-value NFTs and their common categorical traits, -Detection of
 suspicious trading behaviors (e.g., wash trading)
-- Volatility patterns and market dynamics.
+- Volatility patterns and market dynamics
 
 Our methodology integrates time series analysis, correlation and
 regression modeling, unsupervised learning (K-Means), frequent pattern
