@@ -62,8 +62,6 @@ If necessary, rename the file to opensea_nft_sales (e.g., opensea_nft_sales.csv 
 
   * cleaned_dataset → Cleaned dataset (used in most notebooks)
 
-  * cleaned_dataset3.xls → Special version used in specific notebooks
-
   * Copy the necessary dataset(s) to the ProgramCodes folder before running the notebooks.
 
 
