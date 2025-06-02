@@ -86,7 +86,7 @@ All necessary Jupyter notebooks are located in the ProgramCodes folder. You can 
 
   * 8.FactorsAffectingPrice.ipynb
 
-⚠️ If you rename or use different datasets, make sure to update the corresponding file names inside the notebooks.
-
+⚠️ If you rename or use different datasets, make sure to update the corresponding file names inside the notebooks.  
+  
 
 
