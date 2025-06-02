@@ -56,7 +56,7 @@ You can obtain the required datasets in two ways:
 If necessary, rename the file to opensea_nft_sales (e.g., opensea_nft_sales.csv ) so that it matches the file name used in the Cleaning.ipynb notebook.
 
 - ✅ Option 2: Download from DatasetLinks Folder
-  * Inside the DatasetLinks folder, you’ll find both raw and cleaned versions of the dataset:
+  * Inside the DatasetLinks folder, you’ll find [link for both raw and cleaned versions of the dataset:](https://drive.google.com/drive/folders/1aaVmxuCPDZZ4mNW7aZaPJjaUnjNz-Cbj?usp=sharing) 
 
   * opensea_nft_sales → Raw dataset
 
