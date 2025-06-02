@@ -1,6 +1,6 @@
 # NFT Market Analysis (2019--2021)
 This repository contains the project
-proposal,progress report,final report, codebase, and visual outputs of
+proposal, progress report, final report, codebase, and visual outputs of
 our project titled "Analysis of Trends in the NFT Market: Valuable NFTs,
 Price Factors, and Wash Trading".
 
